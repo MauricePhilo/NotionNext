@@ -25,7 +25,7 @@ export const Footer = (props) => {
             Powered by
             <a
               href='https://www.d66.cn'
-              className=' hover:underline'>
+              className=' hover:underline'>D66.cn
             </a>
           </span>
        </div>
