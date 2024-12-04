@@ -21,6 +21,13 @@ export const Footer = (props) => {
          <p>
            © {siteConfig('AUTHOR')} {copyrightDate}
          </p>
+           <span className='no-underline ml-4'>
+            Powered by
+            <a
+              href='https://www.d66.cn'
+              className=' hover:underline'>
+            </a>
+          </span>
        </div>
      </div>
    </footer>
